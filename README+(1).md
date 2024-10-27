@@ -10,7 +10,7 @@ Develop optimize and design statistical model to model demand for shared bikes w
 
 
 ## Table of Contents
-* Data Preparation (#Data Preparation)
+* Data Preparation [AA](#Data Preparation)
 * EDA to understand data and dependancy(#EDA)
 * Train Test and Predict data in Model (#Train Test and Predict)
 * Generate Model Summary and VIF for all Categorical Value(#Model Summary and VIF)
