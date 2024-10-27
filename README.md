@@ -22,7 +22,7 @@ Develop optimize and design statistical model to model demand for shared bikes w
 * [Train Test and Predict data in Model](#TrainTestPredict)
 * [Generate Model Summary and VIF for all Categorical Value](#SummaryVIF)
 
-## Data Preparation
+#Data Preparation
 - Import Data to Data Frame for Analysis 
 - Data Set preparation by joining dummy data sets for each categorical variables 
 - Transform data to include numerical data for Analysis in later stages
